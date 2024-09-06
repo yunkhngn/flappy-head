@@ -17,7 +17,7 @@ Setup
 1. Clone the repository:
 
    ```bash
-   $ git clone https://github.com/youngboiCoder/FlappyHead
+   $ git clone https://github.com/yunkhngn/FlappyHead
    ```
 
    or download as zip and extract.
